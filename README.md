@@ -1,10 +1,12 @@
 # Morpheus-ai
 
-In developing (Current on Local)..
+In developing (Currently running Local)..
 
 Next step:
 - Deploy on cloud
+  
 .
 .
 .
+
 - Integreate with a movie collection web app.
