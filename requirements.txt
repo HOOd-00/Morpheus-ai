@@ -1,0 +1,17 @@
+# Data & Environment
+requests
+python-dotenv
+
+# AI & RAG Framework
+langchain
+langchain-community
+langchain-huggingface
+langchain-google-genai
+
+# Embedding & Vector DB
+sentence-transformers
+chromadb
+
+# UI
+tqdm
+streamlit
